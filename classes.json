@@ -1,0 +1,42 @@
+[
+    {
+      "department": "CSE",
+      "professor": "Theisen",
+      "building": "Fitzpatrick",
+      "courseID": "30321",
+      "name": "Intro to AI",
+      "start": "3:30"
+    },
+    {
+      "department": "CSE",
+      "professor": "Wicks",
+      "building": "Fitzpatrick",
+      "courseID": "404693",
+      "name": "Modern Web Dev",
+      "start": "3:30"
+    },
+    {
+      "department": "CSE",
+      "professor": "Thain",
+      "building": "Pasquerilla Center",
+      "courseID": "30341",
+      "name": "Operating Sytemss",
+      "start": "9:25"
+    },
+    {
+      "department": "EG",
+      "professor": "Kitz/Taylor",
+      "building": "DeBartolo",
+      "courseID": "40442",
+      "name": "Integrated Engineering & Business ",
+      "start": "12:50"
+    },
+    {
+      "department": "EG",
+      "professor": "Striegel",
+      "building": "DeBartolo",
+      "courseID": "20589",
+      "name": "Systems Programming",
+      "start": "11:30"
+    }
+  ]
